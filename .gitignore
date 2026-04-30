@@ -1,0 +1,6 @@
+# Ignore trained models
+*.keras
+*.h5
+
+# Or specific file
+app/lungs_disease_prediction_model (1).keras
